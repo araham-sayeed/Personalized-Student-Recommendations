@@ -1,1 +1,2 @@
 # Personalized-Student-Recommendations
+Personalized Student Recommendations is a Python-based solution designed to analyze quiz performance and provide actionable insights for students to improve their preparation. By leveraging both current and historical quiz data, the system identifies weak areas, tracks trends, and suggests topics or difficulty levels to focus on. Interactive visualizations and detailed recommendations ensure tailored guidance for enhanced learning outcomes.
